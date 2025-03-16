@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "Tracking of Autonomous Code Agents",
+    "shortTitle": "SACA"
+  },
+  "navigation": {
+    "home": "Home",
+    "articles": "Find Articles",
+    "about": "About"
+  },
+  "home": {
+    "title": "Latest Articles",
+    "subtitle": "Daily insights on autonomous code agents",
+    "readMore": "Read More",
+    "noArticles": "No articles found. Check back soon!"
+  },
+  "articles": {
+    "title": "Find Articles",
+    "subtitle": "Explore all articles on autonomous code agents",
+    "search": "Search articles...",
+    "filter": "Filter by:",
+    "sort": "Sort by:",
+    "category": "Category",
+    "date": "Date",
+    "topic": "Topic",
+    "newest": "Newest",
+    "oldest": "Oldest",
+    "relevance": "Relevance",
+    "noResults": "No articles match your search criteria."
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "The story behind this blog",
+    "introduction": "I'm a senior developer who has always tried to work smarter, not harder.",
+    "journey": "My journey has included creating scripts, CI pipelines, linters, templates, and improving team efficiency.",
+    "discovery": "Six months ago, I realized that autonomous agents are the future of development, and they can go much deeper than we could imagine before."
+  },
+  "article": {
+    "published": "Published on",
+    "category": "Category",
+    "author": "Author",
+    "tags": "Tags",
+    "relatedArticles": "Related Articles"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "backToHome": "Back to Home"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "language": "Language"
+  }
+}

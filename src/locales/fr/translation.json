@@ -1,0 +1,54 @@
+{
+  "app": {
+    "title": "Suivi des agents de code autonomes",
+    "shortTitle": "SACA"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "articles": "Trouver des Articles",
+    "about": "À propos"
+  },
+  "home": {
+    "title": "Derniers Articles",
+    "subtitle": "Aperçus quotidiens sur les agents de code autonomes",
+    "readMore": "Lire Plus",
+    "noArticles": "Aucun article trouvé. Revenez bientôt !"
+  },
+  "articles": {
+    "title": "Trouver des Articles",
+    "subtitle": "Explorez tous les articles sur les agents de code autonomes",
+    "search": "Rechercher des articles...",
+    "filter": "Filtrer par :",
+    "sort": "Trier par :",
+    "category": "Catégorie",
+    "date": "Date",
+    "topic": "Sujet",
+    "newest": "Plus récent",
+    "oldest": "Plus ancien",
+    "relevance": "Pertinence",
+    "noResults": "Aucun article ne correspond à vos critères de recherche."
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "subtitle": "L'histoire derrière ce blog",
+    "introduction": "Je suis un développeur senior qui a toujours essayé de travailler plus intelligemment, pas plus difficilement.",
+    "journey": "Mon parcours a inclus la création de scripts, de pipelines CI, de linters, de modèles et l'amélioration de l'efficacité des équipes.",
+    "discovery": "Il y a six mois, j'ai réalisé que les agents autonomes sont l'avenir du développement, et qu'ils peuvent aller beaucoup plus loin que ce que nous pouvions imaginer auparavant."
+  },
+  "article": {
+    "published": "Publié le",
+    "category": "Catégorie",
+    "author": "Auteur",
+    "tags": "Tags",
+    "relatedArticles": "Articles Liés"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "backToHome": "Retour à l'Accueil"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "language": "Langue"
+  }
+}
